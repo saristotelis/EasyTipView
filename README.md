@@ -52,7 +52,7 @@ To integrate EasyTipView into your Xcode project using CocoaPods, specify it in 
 
 
 ```ruby
-pod 'EasyTipView', '~> 2.1'
+pod 'EasyTipView', '~> 2.2'
 ```
 
 Then, run the following command:
