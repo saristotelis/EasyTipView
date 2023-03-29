@@ -8,8 +8,8 @@ Pod::Spec.new do |s|
   s.authors = { 'Teodor Patraș' => 'hello@teodorpatras.com' }
   s.source = { :git => 'https://github.com/saristotelis/EasyTipView.git', :tag => s.version }
   
-  s.swift_version = '5.0'
-  s.ios.deployment_target = '10.0'
+  s.swift_version = '5.1'
+  s.ios.deployment_target = '12.0'
 
   s.source_files = 'Sources/EasyTipView/*.swift'
 
